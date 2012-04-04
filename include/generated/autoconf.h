@@ -1,7 +1,7 @@
 /*
  * Automatically generated C config: don't edit
  * Linux kernel version: 2.6.36.3
- * Thu Apr  5 04:01:36 2012
+ * Thu Apr  5 05:21:02 2012
  */
 #define AUTOCONF_INCLUDED
 #define CONFIG_NF_CONNTRACK_H323 1
@@ -490,7 +490,7 @@
 #define CONFIG_COMMON_CLKDEV 1
 #define CONFIG_DEBUG_KERNEL 1
 #define CONFIG_COMPAT_BRK 1
-#define CONFIG_LOCALVERSION "L06Cv10p-mod"
+#define CONFIG_LOCALVERSION "-L06C-v10p-mod0"
 #define CONFIG_CRYPTO 1
 #define CONFIG_SCHED_DEBUG 1
 #define CONFIG_DEFAULT_MMAP_MIN_ADDR 4096
